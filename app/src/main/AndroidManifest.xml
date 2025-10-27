@@ -20,7 +20,8 @@
             android:name=".NotificationService"
             android:enabled="true"
             android:exported="true"
-            android:foregroundServiceType="dataSync"></service>
+            android:foregroundServiceType="dataSync">
+        </service>
 
         <activity
             android:name=".MainActivity"
